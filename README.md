@@ -1,4 +1,19 @@
-### Hi there 👋
+### Alfredo
+
+Just a developer looking to make my workflow more awesome, build performant projects, and ultimately craft really awsome software. 
+
+- I'm currently working on ...
+  - Further deep diving into JavaScript
+  - Introducing GoLang into my backend languages
+  - Always working on my workflow
+ 
+- I'm currently learning
+  - GoLang
+    
+- I'm looking to collaborate on...
+  - Open Source Projects(Documentation)
+  - Web Applications
+
 
 <!--
 **Alfredoeb9/Alfredoeb9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
