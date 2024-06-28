@@ -1,4 +1,4 @@
-### Alfredo
+### Alfredo Barillas
 
 Just a developer looking to make my workflow more awesome, build performant projects, and ultimately craft really awsome software. 
 
