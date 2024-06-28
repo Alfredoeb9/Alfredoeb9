@@ -8,7 +8,7 @@ Just a developer looking to make my workflow more awesome, build performant proj
   - Always working on my workflow
  
 - I'm currently learning
-  - GoLang
+  - Java
     
 - I'm looking to collaborate on...
   - Open Source Projects(Documentation)
