@@ -4,11 +4,13 @@ Just a developer looking to make my workflow more awesome, build performant proj
 
 - I'm currently working on ...
   - Further deep diving into JavaScript
-  - Introducing GoLang into my backend languages
-  - Always working on my workflow
+  - Introducing Java & GoLang into my backend languages
+  - Always working on my workflow and productivity
  
 - I'm currently learning
-  - Java
+  - Deep Diving into JavaScript performance and scalability
+  - Unit Testing both frontend and backend application
+  - Java & Go
     
 - I'm looking to collaborate on...
   - Open Source Projects(Documentation)
