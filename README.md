@@ -3,6 +3,7 @@
 Just a developer looking to make my workflow more awesome, build performant projects, and ultimately craft really awsome software. 
 
 - I'm currently working on ...
+  - Contributing to Open Source Projects
   - Further deep diving into JavaScript
   - Introducing Java & GoLang into my backend languages
   - Always working on my workflow and productivity
@@ -13,7 +14,7 @@ Just a developer looking to make my workflow more awesome, build performant proj
   - Java & Go
     
 - I'm looking to collaborate on...
-  - Open Source Projects(Documentation)
+  - Open Source Projects
   - Web Applications
 
 
