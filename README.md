@@ -2,6 +2,8 @@
 
 Just a developer looking to make my workflow more awesome, build performant projects, and ultimately craft really awsome software. 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alfredoeb9&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - I'm currently working on ...
   - Contributing to Open Source Projects
   - Further deep diving into JavaScript
