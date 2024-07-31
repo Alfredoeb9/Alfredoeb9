@@ -1,19 +1,25 @@
-### Alfredo Barillas
+## Alfredo Barillas
 
 Just a developer looking to make my workflow more awesome, build performant projects, and ultimately craft really awsome software. 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alfredoeb9&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- I'm currently working on ...
+- ### I'm currently working on ...
   - Contributing to Open Source Projects
+    - Captableinc: https://github.com/captableinc/captable
+      ##### Pull Requests
+      - https://github.com/captableinc/captable/pull/458
+    - PalisadoesFoundation/talawa-admin: https://github.com/PalisadoesFoundation/talawa-admin
+      ##### Pull Requests
+      - https://github.com/PalisadoesFoundation/talawa-admin/pull/2085
   - Further deep diving into JavaScript
-  - Introducing Java & GoLang into my backend languages
+  - Introducing Python & GoLang into my backend languages
   - Always working on my workflow and productivity
  
 - I'm currently learning
   - Deep Diving into JavaScript performance and scalability
   - Unit Testing both frontend and backend application
-  - Java & Go
+  - Python & Go
     
 - I'm looking to collaborate on...
   - Open Source Projects
