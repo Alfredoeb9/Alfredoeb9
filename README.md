@@ -9,6 +9,7 @@ Just a developer looking to make my workflow more awesome, build performant proj
     - Captableinc: https://github.com/captableinc/captable
       ##### Pull Requests
       - https://github.com/captableinc/captable/pull/458
+      - https://github.com/captableinc/captable/issues/452
     - PalisadoesFoundation/talawa-admin: https://github.com/PalisadoesFoundation/talawa-admin
       ##### Pull Requests
       - https://github.com/PalisadoesFoundation/talawa-admin/pull/2085
