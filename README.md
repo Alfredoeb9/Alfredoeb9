@@ -1,6 +1,6 @@
 ## Alfredo Barillas
 
-Just a developer looking to make my workflow more awesome, build performant projects, and ultimately craft really awsome software. 
+Software Engineer looking to make my workflow more awesome, build performant projects, and ultimately craft really awesome software. 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alfredoeb9&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
